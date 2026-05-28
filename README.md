@@ -1,4 +1,4 @@
-# DiscordDel
+# PurgeAtOnce
 
 A small Python script that deletes **your own** messages from a single Discord DM channel, one at a time, up to a number you choose. It only touches messages where the author ID matches your account — the other person's messages are never touched.
 
